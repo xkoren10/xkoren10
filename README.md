@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-- 👨‍🎓 Studying at VUT FIT
+Something about me:
+- 👨‍🎓 Graduated from VUT FIT
 - 🤖 Working at Lakmoos AI
 - 🔭 Interested in AI and ML
 

@@ -8,8 +8,13 @@ Something about me:
 ## 📚 Work and publications
 [Dezinfo SK - Fake News Dataset](https://www.kaggle.com/datasets/matejkore/dezinfo-sk-fake-news-dataset)
 
+[AI Detector Dataset](https://www.kaggle.com/datasets/matejkore/ai-detector-dataset)
+
 Bachelor's Thesis - Detection of Fake News Using Machine Learning ([text](https://www.vut.cz/studenti/zav-prace/detail/148472),  [python package](https://pypi.org/project/FakeNewsClassifier/))
 
+Masters's Thesis - Detection of AI generated text ([text](https://www.vut.cz/studenti/zav-prace/detail/162575),  [Web application](https://ai-detector.lakmoos.com/))
+
+Parametric analysis of large language models for generating synthetic populations - publication in progress, [repository](https://github.com/xkoren10/synth-pop-research)
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/matej.e.koren) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matej-koreň-875419280/) 
 
